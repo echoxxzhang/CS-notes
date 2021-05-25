@@ -27,7 +27,7 @@
 
 
 - 📡 [**MIT 6.NULL**](https://www.yuque.com/zehao-59ab2/missing/iszmpn)
-- 🎥 **[计算机组成](https://www.yuque.com/zehao-59ab2/zcyl)**
+- 🎥 **[计算机组成](https://www.yuque.com/zehao-59ab2/zcyl/uvgh6k)**
 - 🔫 **CSAPP** **(todo)**
 - 📌 **CS144** **(todo)**
 
