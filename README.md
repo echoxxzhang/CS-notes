@@ -27,7 +27,7 @@
 
 
 - 📡 [**MIT 6.NULL**](https://www.yuque.com/zehao-59ab2/missing/iszmpn)
-- 🎥 **计算机组成**
+- 🎥 **[计算机组成](https://www.yuque.com/zehao-59ab2/zcyl)**
 - 🔫 **CSAPP** **(todo)**
 - 📌 **CS144** **(todo)**
 
@@ -37,7 +37,7 @@
 
 ## 📓 相关书籍
 
-
+在“resource”文件夹下，包含所学课程用到的pdf文档以及lab等
 
 todo...（后面补上）
 
