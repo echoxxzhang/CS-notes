@@ -2,7 +2,7 @@
 
 
 
-**个人笔记：**https://www.yuque.com/zehao-59ab2/xy2fc5/baxloi
+**个人笔记**：https://www.yuque.com/zehao-59ab2/xy2fc5/baxloi
 
 ![](https://gitee.com/echoxxzhang/image_bed/raw/master/20210601182702.png)
 
@@ -10,8 +10,8 @@
 
 
 
-**lab：**https://github.com/echoxxzhang/CS-notes/tree/main/resource/CS61A/lab
+**lab**：https://github.com/echoxxzhang/CS-notes/tree/main/resource/CS61A/lab
 
-**hw：**
+**hw**：
 
-**project：**
+**project**：
