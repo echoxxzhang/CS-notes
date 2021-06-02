@@ -59,13 +59,8 @@ def double_eights(n):
     False
     """
     "*** YOUR CODE HERE ***"
-    isflag = False
-    a = -1
-    while (n):
-        temp = n % 10  # 最后一位数
-        if (a == temp and temp == 8):
-            isflag = True
-            break
-        a = temp
-        n = n // 10
-    return isflag
+    while n != 0:
+        if n % 100 == 88:
+            return True
+        n //= 10
+    return False
