@@ -93,6 +93,7 @@ def with_if_statement():
     >>> print(result)
     None
     """
+    # 执行判断其中之一，也就是说，运行其中之一（true_func()或者false_func()）
     if cond():
         return true_func()
     else:
@@ -107,6 +108,7 @@ def with_if_function():
     >>> print(result)
     None
     """
+    # 三个都会执行判断，也就是说，运行了这三个函数
     return if_function(cond(), true_func(), false_func())
 
 
