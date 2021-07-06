@@ -1,6 +1,6 @@
 test = {
   'name': 'debugging-quiz',
-  'points': 0,
+  'points': 1,
   'suites': [
     {
       'cases': [
@@ -182,7 +182,7 @@ test = {
           ],
           'hidden': False,
           'locked': False,
-          'question': "You get a TypeError: ... 'NoneType' object is not ... . What is most likely to have happened?"
+          'question': 'You get a TypeError: blah blah blah NoneType blah blah blah. What is most likely to have happened?'
         },
         {
           'answer': 'You typed a variable name incorrectly',

@@ -1,3 +1,36 @@
+"""Lab 1: Expressions and Control Structures"""
+
+def both_positive(a, b):
+    """Returns True if both a and b are positive.
+
+    >>> both_positive(-1, 1)
+    False
+    >>> both_positive(1, 1)
+    True
+    """
+    return a>0 and b > 0 # You can replace this line!
+
+def sum_digits(x):
+    """Sum all the digits of x.
+
+    >>> sum_digits(10) # 1 + 0 = 1
+    1
+    >>> sum_digits(4224) # 4 + 2 + 2 + 4 = 12
+    12
+    >>> sum_digits(1234567890)
+    45
+    >>> a = sum_digits(123) # make sure that you are using return rather than print
+    >>> a
+    6
+    """
+    "*** YOUR CODE HERE ***"
+    sum = 0
+    while (x // 10):
+        sum += x % 10
+        x = x // 10
+    sum = sum + x
+    return sum
+
 def falling(n, k):
     """Compute the falling factorial of n to depth k.
 
@@ -11,37 +44,12 @@ def falling(n, k):
     1
     """
     "*** YOUR CODE HERE ***"
-    a = 1
-    if k < 1:
-        return 1
-    while k >= 1:
-        k -= 1
-        a *= n
-        n -= 1
-    return a
-
-
-def sum_digits(y):
-    """Sum all the digits of y.
-
-    >>> sum_digits(10) # 1 + 0 = 1
-    1
-    >>> sum_digits(4224) # 4 + 2 + 2 + 4 = 12
-    12
-    >>> sum_digits(1234567890)
-    45
-    >>> a = sum_digits(123) # make sure that you are using return rather than print
-    >>> a
-    6
-    """
-    "*** YOUR CODE HERE ***"
-    x = str(y)
-    a = 0
-    for i in x:
-        a += int(i)
-
-    return a
-
+    sum = 1
+    while (k > 0):
+        k = k - 1
+        sum *= n
+        n = n - 1
+    return sum
 
 def double_eights(n):
     """Return true if n has two eights in a row.
@@ -59,8 +67,13 @@ def double_eights(n):
     False
     """
     "*** YOUR CODE HERE ***"
-    while n != 0:
-        if n % 100 == 88:
-            return True
-        n //= 10
-    return False
+    isTure = False
+    prev = -1
+    while (n):
+        temp = n % 10
+        if (prev == temp and temp == 8):
+            isTure = True
+            break
+        prev = temp
+        n = n // 10
+    return isTure

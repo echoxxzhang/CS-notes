@@ -30,8 +30,6 @@ test = {
           1
           >>> 1 and 3 and 6 and 10 and 15  # If this errors, just type Error.
           15
-          >>> -1 and 1 > 0 # If this errors, just type Error.
-          True
           >>> 0 or False or 2 or 1 / 0  # If this errors, just type Error.
           2
           """,

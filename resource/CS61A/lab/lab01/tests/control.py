@@ -35,7 +35,7 @@ test = {
           ...     elif x > 0:
           ...         print('small')
           ...     else:
-          ...         print("nothin")
+          ...         print("nothin'")
           >>> how_big(7)
           'big'
           >>> how_big(12)
@@ -43,7 +43,7 @@ test = {
           >>> how_big(1)
           small
           >>> how_big(-1)
-          nothin
+          nothin'
           """,
           'hidden': False,
           'locked': False
