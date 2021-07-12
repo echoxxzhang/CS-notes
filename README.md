@@ -45,7 +45,7 @@
 - 💻 [**CS61 A**](https://www.yuque.com/zehao-59ab2/xy2fc5/baxloi)(doing)
   - hw:  ■□□□□□□□□□
   - lab: ■■□□□□□□□□□□□□
-  - project: □□□
+  - project: ■□□
   - 课程描述：著名的公开课，讲述的是计算机如何解释程序的运行，主要内容包括python、编程范式、函数式编程等
   - 花费时间：2021.6.30 - 
 

@@ -1,6 +1,6 @@
 ## 这是仓库食用指南：
 
-### Spring 2021, Instructors: Pamela Fox, Paul Hilfinger
+### Spring 2020, Instructors: Pamela Fox, Paul Hilfinger
 
 
 
