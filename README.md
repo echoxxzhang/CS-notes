@@ -17,6 +17,12 @@
 
 
 
+
+
+语雀笔记仓库：https://www.yuque.com/zehao-59ab2
+
+![](https://gitee.com/echoxxzhang/image_bed/raw/master/20211118235351.png)
+
 <br><br><br>
 
 
@@ -25,8 +31,11 @@
 
 本学习笔记创建于 [ 2021.5.25 ]    终身学习！
 
-- 🔔working：CS61A
-- 📄todo : CSAPP
+Todo：
+
+- [**SSM-note**](https://www.yuque.com/zehao-59ab2/sp8qbw)
+
+- CSAPP
 
 <br>
 
@@ -38,16 +47,7 @@
 
 
 
-<br><br>
 
-
-### 编程范式
-- 💻 [**CS61 A**](https://www.yuque.com/zehao-59ab2/xy2fc5/baxloi)(doing)
-  - hw:  ■□□□□□□□□□
-  - lab: ■■□□□□□□□□□□□□
-  - project: ■□□
-  - 课程描述：著名的公开课，讲述的是计算机如何解释程序的运行，主要内容包括python、编程范式、函数式编程等
-  - 花费时间：2021.6.30 - 
 
 
 <br><br>
