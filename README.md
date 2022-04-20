@@ -33,9 +33,9 @@
 
 Todo：
 
-- [**SSM-note**](https://www.yuque.com/zehao-59ab2/sp8qbw)
-
+- [**Java-End-Point**](https://www.yuque.com/zehao-59ab2/sp8qbw)
 - CSAPP
+- OS
 
 <br>
 
@@ -57,15 +57,13 @@ Todo：
 ### 操作系统
 
 - 🥏**CSAPP** **(doing)** 
-  - notes: ■■■■□□□□□□□
-  - lab：■■■□□□□□□□
   - 课程描述：TOP1级别的书，每一章都值得读三遍，包含计算机网络、计算机组成原理、操作系统等一系列课
 
 
 
 <br>
 
-- 🎮 **操作系统 (清华大学-向勇)(todo)** □□□□□□□□□
+- 🎮 **操作系统 -设计与实现(南京大学)**
 
 
 
